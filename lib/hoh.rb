@@ -50,7 +50,7 @@ def naming_system
  }}}}}}}
  
  end
-  
+  naming_system
   
   # Remember:
   #  Kingdom
