@@ -31,6 +31,13 @@
 # }
 
 def naming_system
+  
+  nested_hoh = {
+    
+    
+  }
+  
+  
   # Remember:
   #  Kingdom
   #  Phylum
